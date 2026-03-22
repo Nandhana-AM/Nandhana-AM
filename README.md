@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Nandhana A M**
+# Hi there, I'm **Nandhana A M**
 
 Welcome to my GitHub profile! I'm passionate about **Machine Learning, Data Science, and Software Development**—building impactful solutions through technology. I love exploring new tools, developing innovative projects, and contributing to the open-source community.
 
